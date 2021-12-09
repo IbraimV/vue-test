@@ -1,5 +1,7 @@
 # mini-shop
 
+Данная задача выполнена в качестве тестового задания для вакансии Junior Fullstack разработчик (PHP, Vue.js)
+
 ## Project setup
 ```
 npm install
